@@ -1,0 +1,708 @@
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/985.0.0.31.289;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/688109040;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=4.7,width=540,height=1420};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/353.0.0.77.569;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/621057435;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.6,width=500,height=1374};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/145.0.0.27.396;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/539259838;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.5,width=505,height=1666};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/413.0.0.55.693;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/319493202;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=3.4,width=985,height=1134};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/119.0.0.55.114;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/119455256;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.3,width=862,height=1078};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/153.0.0.25.836;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/730189509;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=6.2,width=971,height=1454};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/333.0.0.37.278;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/479137041;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=7.4,width=563,height=1368};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/697.0.0.94.281;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/270026018;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=9.2,width=865,height=1119};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/562.0.0.63.923;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/734818760;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=3.1,width=540,height=1196};FB_FW/1;]
+gzip, deflate
+gzip, deflate
+gzip, deflate
+gzip, deflate
+gzip, deflate
+gzip, deflate
+gzip, deflate
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/797.0.0.62.187;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/907862354;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=3.1,width=963,height=1339};FB_FW/1;]
+*/*
+gzip, deflate
+*/*
+*/*
+*/*
+*/*
+gzip, deflate
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/382.0.0.11.307;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/746857977;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=7.5,width=568,height=1529};FB_FW/1;]
+gzip, deflate
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/787.0.0.86.688;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/672846688;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.2,width=869,height=1806};FB_FW/1;]
+*/*
+*/*
+keep-alive
+*/*
+keep-alive
+*/*
+gzip, deflate
+keep-alive
+keep-alive
+keep-alive
+*/*
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/569.0.0.73.217;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/420928676;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=9.2,width=609,height=1305};FB_FW/1;]
+keep-alive
+*/*
+graph.facebook.com
+graph.facebook.com
+graph.facebook.com
+keep-alive
+keep-alive
+keep-alive
+gzip, deflate
+graph.facebook.com
+keep-alive
+graph.facebook.com
+25970600
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/794.0.0.58.199;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/436494873;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.4,width=751,height=1628};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/496.0.0.73.206;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/841640887;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=3.6,width=589,height=1850};FB_FW/1;]
+graph.facebook.com
+graph.facebook.com
+gzip, deflate
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/221.0.0.18.429;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/621204760;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=7.9,width=745,height=1503};FB_FW/1;]
+27781465
+graph.facebook.com
+graph.facebook.com
+graph.facebook.com
+gzip, deflate
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/826.0.0.64.546;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/793628422;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=8.2,width=957,height=1603};FB_FW/1;]
+29556021
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/388.0.0.99.220;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/581494123;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=9.4,width=733,height=1321};FB_FW/1;]
+24231593
+21605554
+22919025
+37389
+21104838
+keep-alive
+*/*
+gzip, deflate
+*/*
+23733298
+gzip, deflate
+*/*
+29089
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/803.0.0.63.447;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/192568672;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=7.5,width=801,height=1748};FB_FW/1;]
+29465174
+gzip, deflate
+26784
+34538
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/261.0.0.58.945;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/855437877;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.5,width=716,height=1037};FB_FW/1;]
+37303
+28413
+graph.facebook.com
+gzip, deflate
+37951
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/943.0.0.94.593;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/239830406;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=8.1,width=644,height=1932};FB_FW/1;]
+23783190
+keep-alive
+*/*
+39489
+keep-alive
+33395
+22279
+keep-alive
+gzip, deflate
+*/*
+30170
+28161
+gzip, deflate
+*/*
+39185
+22634
+EXCELLENT
+EXCELLENT
+keep-alive
+26365177
+35764
+23983
+29052
+*/*
+38757
+graph.facebook.com
+35708
+gzip, deflate
+graph.facebook.com
+*/*
+keep-alive
+EXCELLENT
+*/*
+graph.facebook.com
+application/x-www-form-urlencoded
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/708.0.0.97.203;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/914317169;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=3.5,width=606,height=1496};FB_FW/1;]
+EXCELLENT
+EXCELLENT
+graph.facebook.com
+EXCELLENT
+EXCELLENT
+keep-alive
+*/*
+application/x-www-form-urlencoded
+keep-alive
+25992
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/450.0.0.41.639;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/678140822;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=4.1,width=802,height=1747};FB_FW/1;]
+EXCELLENT
+Liger
+21135286
+23689806
+EXCELLENT
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/247.0.0.14.695;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/444342249;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=5.4,width=817,height=1150};FB_FW/1;]
+keep-alive
+application/x-www-form-urlencoded
+24985697
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+graph.facebook.com
+gzip, deflate
+21112
+keep-alive
+21756969
+application/x-www-form-urlencoded
+graph.facebook.com
+32181
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/998.0.0.93.780;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/585674689;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=8.9,width=869,height=1566};FB_FW/1;]
+graph.facebook.com
+24764
+31013
+application/x-www-form-urlencoded
+gzip, deflate
+Liger
+application/x-www-form-urlencoded
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/563.0.0.51.172;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/612251533;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=9.5,width=557,height=1795};FB_FW/1;]
+Liger
+28621
+keep-alive
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+graph.facebook.com
+29426236
+*/*
+Liger
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/333.0.0.58.575;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/293874150;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=5.1,width=886,height=1728};FB_FW/1;]
+21159714
+*/*
+Liger
+21888123
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/470.0.0.53.252;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/880189631;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=4.4,width=691,height=1941};FB_FW/1;]
+28536
+gzip, deflate
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+gzip, deflate
+31301
+23082859
+Liger
+gzip, deflate
+EXCELLENT
+graph.facebook.com
+Liger
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/913.0.0.93.933;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/830833668;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=4.4,width=885,height=1969};FB_FW/1;]
+27557
+Liger
+Liger
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/221.0.0.41.577;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/131141190;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.2,width=731,height=1782};FB_FW/1;]
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+gzip, deflate
+gzip, deflate
+application/x-www-form-urlencoded
+keep-alive
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+37493
+EXCELLENT
+*/*
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+keep-alive
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+EXCELLENT
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+*/*
+graph.facebook.com
+35992
+34406
+34791
+39481
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+26662850
+*/*
+*/*
+Liger
+gzip, deflate
+keep-alive
+24553
+23627
+application/x-www-form-urlencoded
+*/*
+application/x-www-form-urlencoded
+Liger
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+graph.facebook.com
+graph.facebook.com
+23186
+keep-alive
+Liger
+keep-alive
+24495661
+Liger
+gzip, deflate
+*/*
+graph.facebook.com
+28832
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+33571
+22684
+27761
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+20278102
+20023205
+keep-alive
+keep-alive
+graph.facebook.com
+22201
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+graph.facebook.com
+28190033
+keep-alive
+EXCELLENT
+Liger
+29643
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+EXCELLENT
+EXCELLENT
+EXCELLENT
+graph.facebook.com
+28242629
+graph.facebook.com
+graph.facebook.com
+*/*
+application/x-www-form-urlencoded
+EXCELLENT
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+25858
+24995
+21365287
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+EXCELLENT
+application/x-www-form-urlencoded
+20035691
+37770
+24156744
+Liger
+35714
+Liger
+24239863
+application/x-www-form-urlencoded
+keep-alive
+34793
+20310
+application/x-www-form-urlencoded
+34395
+application/x-www-form-urlencoded
+22875
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+37457
+graph.facebook.com
+20134
+Liger
+EXCELLENT
+30721
+EXCELLENT
+29406
+36623
+28690
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Liger
+EXCELLENT
+application/x-www-form-urlencoded
+EXCELLENT
+36609
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+EXCELLENT
+31042
+application/x-www-form-urlencoded
+23482215
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+Liger
+34784
+EXCELLENT
+26995
+Liger
+EXCELLENT
+application/x-www-form-urlencoded
+Liger
+Liger
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+EXCELLENT
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+Liger
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/392.0.0.98.949;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/271030077;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=3.3,width=611,height=1297};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/934.0.0.82.995;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/392580330;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=5.9,width=509,height=1181};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/884.0.0.29.139;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/434813184;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.2,width=587,height=1881};FB_FW/1;]
+gzip, deflate
+gzip, deflate
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/562.0.0.92.352;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/839127049;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.3,width=918,height=1912};FB_FW/1;]
+*/*
+gzip, deflate
+keep-alive
+*/*
+gzip, deflate
+*/*
+graph.facebook.com
+keep-alive
+*/*
+28699828
+keep-alive
+graph.facebook.com
+24834
+keep-alive
+20768573
+graph.facebook.com
+20673
+30770
+27666748
+graph.facebook.com
+EXCELLENT
+23112
+27495
+24890790
+application/x-www-form-urlencoded
+30763
+EXCELLENT
+EXCELLENT
+Liger
+21117
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+24705
+application/x-www-form-urlencoded
+Liger
+Liger
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+Liger
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/297.0.0.74.188;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/205385514;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=9.1,width=810,height=1074};FB_FW/1;]
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+gzip, deflate
+*/*
+keep-alive
+graph.facebook.com
+28593232
+23286
+37787
+EXCELLENT
+application/x-www-form-urlencoded
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/310.0.0.92.361;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/585883639;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.2,width=784,height=1775};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/113.0.0.61.694;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/966693448;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=8.9,width=593,height=1660};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/630.0.0.64.798;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/902878682;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=5.2,width=704,height=1660};FB_FW/1;]
+gzip, deflate
+gzip, deflate
+gzip, deflate
+*/*
+*/*
+*/*
+keep-alive
+keep-alive
+graph.facebook.com
+28871145
+keep-alive
+graph.facebook.com
+32582
+graph.facebook.com
+32322
+22411940
+EXCELLENT
+25738
+22832130
+application/x-www-form-urlencoded
+37498
+39100
+Liger
+EXCELLENT
+24156
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+EXCELLENT
+application/x-www-form-urlencoded
+Liger
+application/x-www-form-urlencoded
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/285.0.0.24.776;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/852307051;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=5.8,width=783,height=1743};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/961.0.0.82.380;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/457954610;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=8.7,width=648,height=1311};FB_FW/1;]
+gzip, deflate
+gzip, deflate
+*/*
+*/*
+keep-alive
+keep-alive
+graph.facebook.com
+26442843
+graph.facebook.com
+33236
+22439486
+39671
+38335
+24272
+EXCELLENT
+EXCELLENT
+application/x-www-form-urlencoded
+Liger
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/529.0.0.48.842;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/411485620;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=7.3,width=528,height=1099};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/124.0.0.91.742;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/908532030;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=8.4,width=897,height=1113};FB_FW/1;]
+gzip, deflate
+gzip, deflate
+*/*
+*/*
+keep-alive
+keep-alive
+graph.facebook.com
+graph.facebook.com
+24980801
+22841423
+24627
+24660
+28818
+36448
+EXCELLENT
+EXCELLENT
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+Liger
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/432.0.0.23.571;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/516627655;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=4.7,width=508,height=1140};FB_FW/1;]
+gzip, deflate
+*/*
+keep-alive
+graph.facebook.com
+22168920
+28528
+35820
+EXCELLENT
+application/x-www-form-urlencoded
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/886.0.0.40.277;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/425417764;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=5.2,width=787,height=1947};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/942.0.0.57.784;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/415240933;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.6,width=541,height=1249};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/149.0.0.26.450;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/170597273;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.1,width=911,height=1835};FB_FW/1;]
+gzip, deflate
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/453.0.0.16.883;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/582787427;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=9.2,width=754,height=1980};FB_FW/1;]
+gzip, deflate
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/236.0.0.36.999;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/763237574;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=8.5,width=675,height=1136};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/315.0.0.44.920;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/879719734;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=4.1,width=735,height=1636};FB_FW/1;]
+gzip, deflate
+*/*
+*/*
+gzip, deflate
+keep-alive
+*/*
+gzip, deflate
+gzip, deflate
+keep-alive
+*/*
+graph.facebook.com
+*/*
+*/*
+graph.facebook.com
+keep-alive
+keep-alive
+keep-alive
+keep-alive
+graph.facebook.com
+22542679
+20673068
+graph.facebook.com
+36111
+graph.facebook.com
+23416731
+22606936
+graph.facebook.com
+26219931
+22894
+29775083
+29334
+37256
+39880
+37112
+22096
+25515
+EXCELLENT
+EXCELLENT
+30173
+20685
+23514
+EXCELLENT
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+Liger
+application/x-www-form-urlencoded
+34621
+EXCELLENT
+Liger
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+EXCELLENT
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/602.0.0.88.480;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/825523424;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.5,width=942,height=1374};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/951.0.0.33.888;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/796196267;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=3.7,width=719,height=1768};FB_FW/1;]
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+gzip, deflate
+gzip, deflate
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/187.0.0.80.214;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/869874759;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.8,width=797,height=1957};FB_FW/1;]
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+gzip, deflate
+Liger
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/449.0.0.15.369;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/325454145;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=3.2,width=531,height=1926};FB_FW/1;]
+*/*
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/212.0.0.40.593;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/291636301;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.5,width=696,height=1881};FB_FW/1;]
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/428.0.0.77.420;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/906184774;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=9.7,width=796,height=1787};FB_FW/1;]
+*/*
+*/*
+gzip, deflate
+keep-alive
+gzip, deflate
+gzip, deflate
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+keep-alive
+keep-alive
+graph.facebook.com
+*/*
+*/*
+21597847
+graph.facebook.com
+keep-alive
+keep-alive
+graph.facebook.com
+34377
+24581469
+*/*
+graph.facebook.com
+graph.facebook.com
+21427
+23301906
+37773
+20253281
+keep-alive
+32229
+21207392
+22038
+EXCELLENT
+graph.facebook.com
+32690
+35209
+28496
+application/x-www-form-urlencoded
+EXCELLENT
+39152
+26859600
+23725
+EXCELLENT
+EXCELLENT
+EXCELLENT
+23976
+application/x-www-form-urlencoded
+Liger
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+Liger
+38882
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/122.0.0.46.738;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/408270059;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.2,width=670,height=1275};FB_FW/1;]
+gzip, deflate
+*/*
+keep-alive
+graph.facebook.com
+29686605
+38297
+38391
+EXCELLENT
+application/x-www-form-urlencoded
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/345.0.0.68.113;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/702055416;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=8.2,width=628,height=1970};FB_FW/1;]
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/861.0.0.21.949;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/696909830;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=8.8,width=732,height=1482};FB_FW/1;]
+gzip, deflate
+gzip, deflate
+*/*
+*/*
+keep-alive
+keep-alive
+graph.facebook.com
+graph.facebook.com
+25677158
+29754233
+24902
+26656
+23917
+20293
+EXCELLENT
+EXCELLENT
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+Liger
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X689B Build/RP1A.200720.011) [FBAN/Orca-Android;FBAV/192.0.0.17.130;FBPN/com.facebook.orca;FBLC/en_BD;FBBV/670154575;FBCR/;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X689B;FBSV/11.0.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=4.7,width=675,height=1571};FB_FW/1;]
+gzip, deflate
+*/*
+keep-alive
+graph.facebook.com
+20347515
+24048
+24324
+EXCELLENT
+application/x-www-form-urlencoded
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
