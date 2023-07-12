@@ -1,0 +1,720 @@
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+gzip, deflate
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+gzip, deflate
+gzip, deflate
+*/*
+gzip, deflate
+gzip, deflate
+gzip, deflate
+gzip, deflate
+gzip, deflate
+gzip, deflate
+*/*
+*/*
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+*/*
+*/*
+*/*
+*/*
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+*/*
+*/*
+gzip, deflate
+*/*
+keep-alive
+*/*
+*/*
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+keep-alive
+*/*
+keep-alive
+gzip, deflate
+keep-alive
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+keep-alive
+keep-alive
+keep-alive
+keep-alive
+keep-alive
+graph.facebook.com
+graph.facebook.com
+gzip, deflate
+gzip, deflate
+keep-alive
+graph.facebook.com
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+keep-alive
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+graph.facebook.com
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+keep-alive
+*/*
+*/*
+graph.facebook.com
+keep-alive
+gzip, deflate
+graph.facebook.com
+graph.facebook.com
+graph.facebook.com
+22461725
+*/*
+gzip, deflate
+21527693
+graph.facebook.com
+graph.facebook.com
+22540155
+*/*
+gzip, deflate
+graph.facebook.com
+20979318
+24001539
+graph.facebook.com
+keep-alive
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+29903718
+gzip, deflate
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+*/*
+26230734
+keep-alive
+23079522
+21971
+keep-alive
+keep-alive
+22548
+23617
+graph.facebook.com
+24324049
+*/*
+*/*
+26664
+graph.facebook.com
+22417234
+gzip, deflate
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+24277581
+24544751
+21146
+25461
+34497
+32844
+gzip, deflate
+39535
+32889
+25555
+28855766
+30721
+keep-alive
+keep-alive
+graph.facebook.com
+graph.facebook.com
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+20845
+*/*
+32122
+*/*
+EXCELLENT
+39645
+graph.facebook.com
+36750
+27504
+21986632
+EXCELLENT
+graph.facebook.com
+20262
+26480
+27567
+29307640
+23615287
+*/*
+gzip, deflate
+keep-alive
+keep-alive
+23389092
+gzip, deflate
+23500
+23567
+keep-alive
+gzip, deflate
+graph.facebook.com
+39458
+EXCELLENT
+24132
+26838843
+31027
+23667
+35570
+39541
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+EXCELLENT
+EXCELLENT
+graph.facebook.com
+application/x-www-form-urlencoded
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+*/*
+EXCELLENT
+25407
+EXCELLENT
+25122
+graph.facebook.com
+keep-alive
+application/x-www-form-urlencoded
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+22876
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+EXCELLENT
+gzip, deflate
+34471
+21225326
+Liger
+EXCELLENT
+EXCELLENT
+33874
+20778750
+EXCELLENT
+graph.facebook.com
+*/*
+28493775
+keep-alive
+32866
+graph.facebook.com
+EXCELLENT
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+22174
+gzip, deflate
+application/x-www-form-urlencoded
+EXCELLENT
+28581
+20916
+graph.facebook.com
+*/*
+EXCELLENT
+*/*
+keep-alive
+*/*
+application/x-www-form-urlencoded
+*/*
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Liger
+EXCELLENT
+23967
+Liger
+application/x-www-form-urlencoded
+22774
+22140497
+application/x-www-form-urlencoded
+gzip, deflate
+keep-alive
+application/x-www-form-urlencoded
+27156880
+EXCELLENT
+Liger
+keep-alive
+33286
+Liger
+application/x-www-form-urlencoded
+Liger
+application/x-www-form-urlencoded
+29162488
+keep-alive
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+31104
+graph.facebook.com
+36190
+Liger
+EXCELLENT
+keep-alive
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+EXCELLENT
+graph.facebook.com
+Liger
+graph.facebook.com
+28902
+Liger
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+31384
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+EXCELLENT
+*/*
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+35042
+graph.facebook.com
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+29913528
+20684211
+22106105
+30534
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+EXCELLENT
+application/x-www-form-urlencoded
+EXCELLENT
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+keep-alive
+Liger
+graph.facebook.com
+22459
+21773730
+EXCELLENT
+Liger
+24621
+32965
+35696
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+graph.facebook.com
+29505
+22600427
+application/x-www-form-urlencoded
+EXCELLENT
+Liger
+36857
+Liger
+application/x-www-form-urlencoded
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+34828
+32918
+Liger
+EXCELLENT
+EXCELLENT
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+27548
+35812
+EXCELLENT
+31052
+application/x-www-form-urlencoded
+23277050
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+27892
+Liger
+Liger
+application/x-www-form-urlencoded
+Liger
+36856
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+21988
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+EXCELLENT
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+Liger
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+gzip, deflate
+gzip, deflate
+*/*
+*/*
+*/*
+keep-alive
+keep-alive
+graph.facebook.com
+keep-alive
+graph.facebook.com
+graph.facebook.com
+28617388
+22619674
+27678863
+26829
+32066
+23970
+37428
+EXCELLENT
+23560
+27123
+EXCELLENT
+application/x-www-form-urlencoded
+EXCELLENT
+Liger
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+*/*
+keep-alive
+graph.facebook.com
+20476194
+31270
+26379
+EXCELLENT
+application/x-www-form-urlencoded
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+*/*
+gzip, deflate
+*/*
+gzip, deflate
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+*/*
+*/*
+keep-alive
+keep-alive
+*/*
+keep-alive
+keep-alive
+*/*
+gzip, deflate
+graph.facebook.com
+graph.facebook.com
+keep-alive
+graph.facebook.com
+keep-alive
+graph.facebook.com
+*/*
+23162105
+graph.facebook.com
+21925624
+graph.facebook.com
+22617075
+27000763
+21588622
+21861
+34899
+keep-alive
+38589
+24772302
+28506
+26142
+graph.facebook.com
+28442
+22925
+31678
+EXCELLENT
+27725
+28211
+24677
+22785919
+application/x-www-form-urlencoded
+25847
+EXCELLENT
+37597
+EXCELLENT
+EXCELLENT
+Liger
+EXCELLENT
+EXCELLENT
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+20069
+application/x-www-form-urlencoded
+Liger
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+Liger
+EXCELLENT
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+gzip, deflate
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+*/*
+*/*
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+keep-alive
+gzip, deflate
+*/*
+keep-alive
+*/*
+gzip, deflate
+graph.facebook.com
+gzip, deflate
+*/*
+graph.facebook.com
+keep-alive
+*/*
+*/*
+29899282
+keep-alive
+*/*
+28660482
+graph.facebook.com
+keep-alive
+35184
+graph.facebook.com
+keep-alive
+36579
+keep-alive
+keep-alive
+graph.facebook.com
+38801
+graph.facebook.com
+28967060
+28737891
+32638
+graph.facebook.com
+29721
+28832295
+graph.facebook.com
+37197
+EXCELLENT
+25081344
+EXCELLENT
+39153
+24153
+26752225
+application/x-www-form-urlencoded
+EXCELLENT
+33895
+21826633
+39520
+application/x-www-form-urlencoded
+37117
+Liger
+Liger
+EXCELLENT
+35514
+23273
+25532
+application/x-www-form-urlencoded
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+39608
+27942
+application/x-www-form-urlencoded
+Liger
+EXCELLENT
+EXCELLENT
+application/x-www-form-urlencoded
+Liger
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+Liger
+application/x-www-form-urlencoded
+Liger
+Liger
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+gzip, deflate
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+*/*
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+*/*
+gzip, deflate
+keep-alive
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+*/*
+*/*
+graph.facebook.com
+keep-alive
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+keep-alive
+gzip, deflate
+keep-alive
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+graph.facebook.com
+gzip, deflate
+gzip, deflate
+graph.facebook.com
+26575780
+graph.facebook.com
+*/*
+*/*
+*/*
+*/*
+22905114
+gzip, deflate
+*/*
+39708
+23380748
+29835976
+keep-alive
+keep-alive
+keep-alive
+keep-alive
+keep-alive
+*/*
+38518
+32324
+graph.facebook.com
+39956
+graph.facebook.com
+20720
+26458
+36343
+graph.facebook.com
+graph.facebook.com
+21669504
+20866
+graph.facebook.com
+keep-alive
+21174707
+EXCELLENT
+EXCELLENT
+26283244
+28330574
+25191280
+application/x-www-form-urlencoded
+31227
+37222
+EXCELLENT
+31272
+graph.facebook.com
+EXCELLENT
+application/x-www-form-urlencoded
+20498
+39625
+application/x-www-form-urlencoded
+27412
+application/x-www-form-urlencoded
+21456
+38370
+Liger
+32573
+21210281
+Liger
+Liger
+25416
+Liger
+EXCELLENT
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+EXCELLENT
+EXCELLENT
+23530
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+Liger
+application/x-www-form-urlencoded
+application/x-www-form-urlencoded
+32167
+application/x-www-form-urlencoded
+Liger
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Liger
+EXCELLENT
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+application/x-www-form-urlencoded
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
+Dalvik/2.1.0 (Linux; U; Android 7; KC3 Build/NTVJF1) [FBAN/FB4A;FBAV/432.0.0.82.95;FBBV/297524095;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/TECHNO;FBBD/TECHNO;FBDV/KC3;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+gzip, deflate
+*/*
+keep-alive
+graph.facebook.com
+22836918
+24745
+38432
+EXCELLENT
+application/x-www-form-urlencoded
+Liger
+Auth2 256002347743983|374e60f8b9bb6b8cbb30f78030438895
